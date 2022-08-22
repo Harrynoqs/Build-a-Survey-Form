@@ -2,7 +2,7 @@
 
 :root{
     --color-white:#f3f3f3;
-    --color-darkblue:#3824cf;
+    --color-darkblue:hwb(351 86% 8%);
     --color-darkblue-alpha:rgba(13, 138, 187, 0.8);
     --color-green:#21eb6e;
 }
